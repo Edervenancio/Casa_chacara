@@ -64,6 +64,61 @@ a:link, a:visited, a:hover, a:active{
 
 
 /* área referente a escrita do ambiente/ambiente/conteúdo primário */
+.sobre_escrita{
+    display:flex;
+    justify-content: center;
+    font-size: 35px;
+    height: 50px;
+    font-family: 'Irish Grover', cursive;
+    padding-top: 25px;
+    background-color: white;
+    padding-right: 8px;
+  }
+  
+  .sobre{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 10px;
+    height: 55px;
+    width: 100%;
+    background-color: white;
+  }
+  
+  .publico{
+      height: 50px;
+      font-size: 15px;
+      background-color: white;
+  }
+  
+  .publico1{
+      display: flex;
+      justify-content: center;
+      color: orange;
+      background-color: white;
+      padding-top: 15px;
+  }
+  
+  .faz_escrita{
+      display:flex;
+    justify-content: center;
+    font-size: 17px;
+    height: 80px;
+    font-family: 'Irish Grover', cursive;
+  }
+  
+  .fazemos{
+      display:flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    font-size: 17px;
+    height: 120px;
+    width: 65%;
+    background-color: white;
+    padding-left: 220px;
+  
+  }
 
 .escrita_ambiente{
     display: flex;
@@ -73,41 +128,12 @@ a:link, a:visited, a:hover, a:active{
     height: 40px;
     background-color: white;
     font-family: "Copperplate", "bold";
+    font-family: 'Alfa Slab One', cursive;
+    background: brown;
+    border-top: 2px solid black;
     
 }
 
-.sobre_escrita{
-  display:flex;
-  justify-content: center;
-  font-size: 25px;
-  height: 50px;
-  font-family: 'Irish Grover', cursive;
-  padding-top: 25px;
-  background-color: white;
-}
-
-.sobre{
-  display:flex;
-  justify-content: center;
-  text-align: center;
-  font-size: 10px;
-  height: 55px;
-  width: 100%;
-  background-color: white;
-}
-
-.publico{
-    height: 50px;
-    font-size: 15px;
-    background-color: white;
-}
-
-.publico1{
-    display: flex;
-    justify-content: center;
-    color: orange;
-    background-color: white;
-}
 
 
 .galeria{
