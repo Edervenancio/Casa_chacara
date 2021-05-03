@@ -76,6 +76,38 @@ a:link, a:visited, a:hover, a:active{
     
 }
 
+.sobre_escrita{
+  display:flex;
+  justify-content: center;
+  font-size: 25px;
+  height: 50px;
+  font-family: 'Irish Grover', cursive;
+  padding-top: 25px;
+  background-color: white;
+}
+
+.sobre{
+  display:flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 10px;
+  height: 55px;
+  width: 100%;
+  background-color: white;
+}
+
+.publico{
+    height: 50px;
+    font-size: 15px;
+    background-color: white;
+}
+
+.publico1{
+    display: flex;
+    justify-content: center;
+    color: orange;
+    background-color: white;
+}
 
 
 .galeria{
@@ -84,9 +116,9 @@ a:link, a:visited, a:hover, a:active{
     flex-wrap: wrap;
     justify-content: space-around;
     width: 100%;
-    height: 240px;
-    background: white;
-    margin: 0 
+    height: 230px;
+    margin:0; 
+    background-image: url("https://media.istockphoto.com/photos/wood-texture-oak-wood-background-texture-background-picture-id625203552?k=6&m=625203552&s=170667a&w=0&h=mfQrTot54RSWCGf_eQ6uE3NvX01tJ-MY59yWnE2ZfqU=");
 }
 
 .galeria2{
@@ -94,11 +126,11 @@ a:link, a:visited, a:hover, a:active{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+    border-bottom: 5px solid black;
     width: 100%;
     height: 330px;
-    background: white;
-    margin: 0 ;
-    background-image: url("public/images/galo.png");
+    margin:0;
+    background-image: url("https://media.istockphoto.com/photos/wood-texture-oak-wood-background-texture-background-picture-id625203552?k=6&m=625203552&s=170667a&w=0&h=mfQrTot54RSWCGf_eQ6uE3NvX01tJ-MY59yWnE2ZfqU=");
 }
 
 
