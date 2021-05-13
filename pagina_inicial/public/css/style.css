@@ -28,6 +28,7 @@ a:link, a:visited, a:hover, a:active{
     color:black;
     border-bottom: 3px solid black;
     font-family: "Copperplate", "bold";
+    background-size: cover;
     background-image: url("https://media.istockphoto.com/photos/washed-white-wood-texture-light-wooden-texture-background-picture-id1069689458?k=6&m=1069689458&s=170667a&w=0&h=Hc3bi46jFPmPbXqjJna-oLNlSacm7tJBXCsuEuUB9oQ=");
     
 }
@@ -60,6 +61,7 @@ a:link, a:visited, a:hover, a:active{
     font-size: 15px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-image: url("https://familiaevida.com/blog/wp-content/uploads/2015/02/photodune-2487584-white-wood-background-m-1.jpg");
+    background-size: cover;
 }
 
 
